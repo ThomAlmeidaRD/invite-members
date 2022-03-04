@@ -1,0 +1,17 @@
+.notify {
+    background-color: rgb(0, 173, 52);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    display: none;
+}
+
+.notify h3 {
+    margin-right: 20px;
+}
+
+i {
+    cursor: pointer;
+}
